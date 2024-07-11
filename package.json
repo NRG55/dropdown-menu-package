@@ -1,0 +1,19 @@
+{
+  "name": "dropdown-menu-package",
+  "version": "1.0.0",
+  "description": "Dropdown menu package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NRG55/dropdown-menu-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NRG55/dropdown-menu-package/issues"
+  },
+  "homepage": "https://github.com/NRG55/dropdown-menu-package#readme"
+}
