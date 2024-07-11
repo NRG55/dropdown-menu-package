@@ -1,5 +1,38 @@
+.dropdown {
+    position: relative;
+    width: 100px;
+}
+
+.dropdown-menu-button {
+    cursor: pointer;
+    border: none;
+    padding: 12px;
+    background-color: rgb(88, 116, 243);
+    color:white;
+    font-size: 16px;
+    width: 100%;   
+}
+
+.dropdown-menu-button:hover {
+   background-color: rgb(96, 123, 245);
+}
+
 .dropdown-menu {
     display: none;
+    position: absolute;
+    width: 100%;
+    background-color: rgb(234, 236, 243);    
+}
+
+.dropdown-menu a {
+    display: block;
+    padding: 12px;
+    text-decoration: none;       
+    color: rgb(66, 65, 65);
+}
+
+.dropdown-menu a:hover {
+   background-color: rgb(222, 226, 241);
 }
 
 .visible {
